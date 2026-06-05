@@ -1,16 +1,22 @@
-# Calculadora Python - Aula 4 ADS
+# Aulas de Python - ADS Estácio
 
-Minha primeira calculadora feita em Python durante o curso de Análise e Desenvolvimento de Sistemas.
+Repositório com meus exercícios e projetos do curso de Análise e Desenvolvimento de Sistemas.
 
-### Funcionalidades:
+### Aula 1 - Introdução ao Python
+- Primeiros comandos com `print()`
+- Declaração de variáveis
+- Operações matemáticas básicas
+- Tipos de dados: `int`, `float`, `str`
+
+### Aula 4 - Calculadora com Loop
 - Soma, subtração, multiplicação e divisão
-- Loop `while` para fazer várias contas
+- Loop `while` para fazer várias contas seguidas
 - Histórico de operações usando `listas`
 - Tratamento de erro para divisão por zero
 
-### Como usar:
-1. Baixe o arquivo `AULA_4_CALCULADORA_Omarisa.ipynb`
+### Como executar:
+1. Baixe o arquivo `.ipynb` da aula desejada
 2. Abra no Google Colab
-3. Rode e seja feliz :)
+3. Rode célula por célula
 
 Desenvolvido por Omarisa - ADS Estácio
