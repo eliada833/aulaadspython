@@ -1,0 +1,15 @@
+# TEMA 04 - Modelagem de Banco de Dados - BRMW
+
+Projeto da faculdade Estácio ADS - Outubro 2026
+
+### O que foi feito:
+- Modelo Conceitual (DER) com entidade e atributo composto AC -> AC1, AC2
+- Conversão para Modelo Lógico Relacional
+- Geração de tabelas com chave primária
+
+### Ferramenta:
+brModeloWeb (BRMW) - Models list: PROJETO-TABELA_convertido
+
+### Autora:
+Marisa Oliveira - ADS Estácio
+https://github.com/eliada833
